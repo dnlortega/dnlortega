@@ -17,4 +17,6 @@
   <img align="center" alt="laravel" src="https://img.shields.io/badge/laravel-43853D?style=for-the-badge&logo=laravel&logoColor=white" />
 </div><br/>
 
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=dnlortega&show_icons=true&theme=dracula)
+
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
