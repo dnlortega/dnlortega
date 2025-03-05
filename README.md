@@ -26,3 +26,6 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 # Pokedex: Imagens do Projeto concluído
 
 [![image](https://uploaddeimagens.com.br/images/004/806/609/original/pokedex.png)](https://dnlortega.github.io/Pokedex/)
+
+### Projeto: Calculadora
+[![Calculadora](https://dnlortega.github.io/calculadora/CALCULADORA.PNG)](https://dnlortega.github.io/calculadora/)
