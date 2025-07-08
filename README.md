@@ -21,11 +21,3 @@
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=dnlortega&show_icons=true&theme=dracula)
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-
-
-# Pokedex: Imagens do Projeto concluído
-
-[![image](https://dnlortega.github.io/Pokedex/Pokedex%201.PNG)](https://dnlortega.github.io/Pokedex/)
-
-### Projeto: Calculadora
-[![Calculadora](https://dnlortega.github.io/calculadora/CALCULADORA.PNG)](https://dnlortega.github.io/calculadora/)
