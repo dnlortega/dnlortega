@@ -42,7 +42,7 @@ Atualmente, foco meus estudos e projetos em **Next.js, React, Node.js, PHP e Lar
 - [LinkedIn](https://www.linkedin.com/in/dnlortega/)  
 - [Instagram](https://www.instagram.com/dnlortega/)  
 - [Facebook](https://www.facebook.com/daniel.ortega.pereira.2025)  
-- 📧 Email: `seuemail@exemplo.com`
+- 📧 Email: `dnlortega@gmail.com`
 
 ---
 
