@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Daniel%20Ortega%20Pereira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Analista%20%26%20Desenvolvedor%20de%20Sistemas&descAlignY=55&descSize=18" width="100%"/>
+# 👋 Daniel Ortega Pereira
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Apaixonado+por+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;Next.js+%7C+React+%7C+Node.js+%7C+Laravel;Sempre+aprendendo+novas+tecnologias+%F0%9F%93%9A)](https://git.io/typing-svg)
+### Analista & Desenvolvedor de Sistemas
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Apaixonado+por+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;Next.js+%7C+React+%7C+Node.js+%7C+Laravel;Sempre+aprendendo+novas+tecnologias+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 <br/>
 
@@ -93,8 +95,8 @@ const daniel = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
 **Vamos construir algo incrível juntos! 🚀**
+
+![footer](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
