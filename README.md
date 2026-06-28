@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:A855F7&height=200&section=header&text=Daniel%20Ortega%20Pereira&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Systems%20Analyst%20%26%20Full%20Stack%20Developer&descAlignY=62&descSize=20&descColor=d0bcff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Daniel%20Ortega%20Pereira&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Systems%20Analyst%20%26%20Full%20Stack%20Developer&descAlignY=62&descSize=20&descColor=d0bcff"/>
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,100:A855F7&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6E40C9&height=3"/>
 
 ## 👨‍💻 About Me
 
@@ -154,7 +154,7 @@ const daniel = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:A855F7&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=footer&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing+together+🚀;Feel+free+to+reach+out!+💬)](https://git.io/typing-svg)
 
