@@ -4,6 +4,8 @@
 
 ### Analista & Desenvolvedor de Sistemas
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dnlortega.dnlortega&color=6E40C9&style=flat-square)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Apaixonado+por+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;Next.js+%7C+React+%7C+Node.js+%7C+Laravel;Sempre+aprendendo+novas+tecnologias+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 <br/>
@@ -64,18 +66,57 @@ const daniel = {
 
 ---
 
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://presenca-nextjs-l6a2.vercel.app" target="_blank">
+        <img src="https://image.thum.io/get/width/600/crop/400/https://presenca-nextjs-l6a2.vercel.app" width="100%" alt="Sistema de Presença" style="border-radius:8px"/>
+        <br/><br/>
+        <strong>📋 Sistema de Presença</strong>
+      </a>
+      <br/>
+      <sub>Controle de presença com Next.js</sub>
+      <br/><br/>
+      <a href="https://presenca-nextjs-l6a2.vercel.app">
+        <img src="https://img.shields.io/badge/Ver%20Projeto-6E40C9?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://cha-bebe.vercel.app" target="_blank">
+        <img src="https://image.thum.io/get/width/600/crop/400/https://cha-bebe.vercel.app" width="100%" alt="Chá de Bebê" style="border-radius:8px"/>
+        <br/><br/>
+        <strong>🍼 Chá de Bebê</strong>
+      </a>
+      <br/>
+      <sub>Página especial para chá de bebê</sub>
+      <br/><br/>
+      <a href="https://cha-bebe.vercel.app">
+        <img src="https://img.shields.io/badge/Ver%20Projeto-E4405F?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnlortega&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnlortega&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnlortega&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnlortega&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dnlortega&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dnlortega&theme=midnight-purple&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
